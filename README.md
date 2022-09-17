@@ -26,6 +26,6 @@
 <p align="center"><img width="900" src="https://raw.githubusercontent.com/Canos13/api-datos/master/images/Imagen9.png"></p>
 <h3 align="center">✔️​ 14. Despues ya podremos ver la extensión cargada correctamente</h3>
 <p align="center"><img width="900" src="https://raw.githubusercontent.com/Canos13/api-datos/master/images/Imagen10.png"></p>
-<h3 align="center">✔️​ 15. Por último para verficar que funciones, nos dirigimos al <a href="virtual.unca.edu.mx" target="_blank">Chamilo de la UNCA</a></h3>
+<h3 align="center">✔️​ 15. Por último para verficar que funciones, nos dirigimos al <a target="_blank" href="https://virtual.unca.edu.mx">Chamilo de la UNCA</a></h3>
 <p align="center"><img width="900" src="https://raw.githubusercontent.com/Canos13/api-datos/master/images/Imagen11.PNG"></p>
 
