@@ -1,0 +1,27 @@
+{
+    "name": "Chamilo Oscuro",
+    "version": "1.0.0",
+    "description": "Chamilo con tema oscuro",
+    "manifest_version": 3,
+    "author":"Sergio Cano Martinez",
+    "action": {
+        "default_icon": {
+            "16": "/icon/scm16.png",
+            "32": "/icon/scm32.png",
+            "48": "/icon/scm48.png",
+            "128": "/icon/scm128.png"
+        }
+    },
+    "content_scripts":[
+        {
+            "css": ["estilos.css"],
+            "matches":["https://*.virtual.unca.edu.mx/*"]
+        }
+    ],
+    "icons": {
+        "16": "/icon/scm16.png",
+        "32": "/icon/scm32.png",
+        "48": "/icon/scm48.png",
+        "128": "/icon/scm128.png"
+    }
+}

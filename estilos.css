@@ -1,0 +1,136 @@
+*{
+    background: #000 !important;
+    color: #fff !important;
+}
+
+.navbar-default,
+.navbar-collapse{
+    background: linear-gradient(-90deg, #a3278f 0%, #e52f50 100%) !important;
+    border-color: rgba(0, 0, 0, 0) !important;
+}
+
+.container{ padding: 0 !important;}
+.my-course a,
+.homepage a,
+.agenda a,
+.my-progress a{
+    background:  #e52f50 !important;
+    font-size: 1.8rem;
+}
+
+.dropdown-menu li a,
+.avatar-user .dropdown-menu,
+.avatar-user .dropdown-menu li .text-center,
+.avatar-user .dropdown-menu li .text-center a,
+.avatar-user .dropdown-menu li .text-center p,
+.fa-envelope-o,
+.fa-envelope,
+.fa-graduation-cap,
+.fa-sign-out,
+.label-info,
+.fa-upload,
+.fa-pencil,
+.btn-post,
+.fa-paper-plane,
+.btn-primary{ background:  #a3278f !important; }
+.navbar-right li a{ background: #AC2886 !important; }
+.divider{ background: #e52f50 !important; }
+
+.social-network a{
+    background: linear-gradient(-90deg, #C22B72 0%, #e52f50 100%) !important;
+    font-size: 1.8rem !important;
+}
+.fc-scroller::-webkit-scrollbar,
+body::-webkit-scrollbar{ width: 7px !important; }
+.fc-scroller::-webkit-scrollbar-thumb,
+body::-webkit-scrollbar-thumb{
+    background: linear-gradient(-180deg, #a3278f 0%, #e52f50 100%) !important;
+    border-radius: 5px !important;
+}
+
+.flag-icon-de{ background-image: url(./web/assets/flag-icon-css/flags/4x3/de.svg) !important;}
+.flag-icon-gb{ background-image: url(./web/assets/flag-icon-css/flags/4x3/gb.svg) !important;}
+.flag-icon-es{ background-image: url(./web/assets/flag-icon-css/flags/4x3/es.svg) !important;}
+.panel-default{ border-color: rgba(0, 0, 0, 0) !important; }
+#home-welcome p img { border-radius: 10px !important;}
+#login-block .panel-body{
+    background: rgba(255, 255, 255, 0.13) !important;
+    border-radius: 6px !important;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0, 0.1) !important;
+    backdrop-filter: blur(5.6px) !important;
+    -webkit-backdrop-filter: blur(5.6px) !important;
+    border:  1px solid rgba(255, 255, 255, 0.3) !important;
+}
+
+.avatar-user .dropdown-toggle{
+    padding-top: 8px !important;
+    padding-bottom: 6px !important;
+}
+
+.thumbnail{
+    border: #a3278e00 solid 2px !important;
+    border-radius: 12px !important;
+    filter: drop-shadow(0 0 0.75rem #a3278f) !important;
+}
+
+.breadcrumb{
+    text-align: center !important;
+    font-size: 25px !important;
+}
+
+.big_icon img{
+    padding: 5px !important;
+    border-radius: 10px !important;
+    border: 0px solid rgba(255, 255, 255, 0) !important;
+    filter: drop-shadow(0 0 0.75rem #a3278f) !important;
+    box-shadow:0 0 0 rgba(0, 0, 0, 0) !important;
+}
+
+.breadcrumb li a img{
+    margin-top: 5px !important;
+    width: 35px !important;
+}
+
+.software-name:after{
+    visibility: visible !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    content: "Tema creado por Sergio Cano Mtz." !important;
+}
+
+#help_block .panel-heading,
+#skills_block .panel-heading,
+#courses_block .panel-heading,
+#profile_block .panel-heading{
+    text-align: center !important;
+    font-size: 19px !important;
+}
+#dropzone, .button-load { background-color: #AC2886 !important;}
+#toolbar-work .row,
+#gradebook-student-actions .row,
+#toolbar-agenda .row,
+#toolbar .row{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+.button-load{ background: url(../../main/img/icons/64/file_upload.png) no-repeat center 20px !important; }
+.btn-default{ border-color: rgba(255, 255, 255, 0) !important; }
+#navigation .help .ajax {margin-left: 1px !important; }
+#ul_tabs li{
+    float: left !important;
+    margin-bottom: 1px !important;
+}
+
+#dropzone{
+     border: 2px solid #bbbbbb !important;
+     border-radius: 5px !important;
+}
+
+#cm-header .container .row .col-xs-12,
+#cm-header .container .row .col-xs-12 .row .col-sm-5{ width: 100% !important; }
+#cm-header .container .row .col-xs-12 .logo{ margin: 25px 0 !important; }
+#header-logo { margin: auto !important; }
+#cm-header .container .row .col-xs-12 .row .col-sm-3,
+#cm-header .container .row .col-xs-12 .row .col-sm-4{ width: 0% !important; }
+#cm-header .container .row .col-xs-12 .row .col-sm-5 .header-ol{ text-align: center !important; }
