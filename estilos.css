@@ -111,7 +111,8 @@ body::-webkit-scrollbar-thumb{
 #toolbar-work .row,
 #gradebook-student-actions .row,
 #toolbar-agenda .row,
-#toolbar .row{
+#toolbar .row,
+#actions-documents .row{
     margin-left: 0 !important;
     margin-right: 0 !important;
 }
@@ -142,14 +143,8 @@ body::-webkit-scrollbar-thumb{
     font-size: 18px;
 }
 
-#formLogin .col-sm-2{
-    width: 0% !important;
-}
-
-#formLogin .col-sm-8{
-    width: 100% !important;
-}
-
+#formLogin .col-sm-2{ width: 0% !important;}
+#formLogin .col-sm-8{ width: 100% !important;}
 #formLogin .col-sm-8 #formLogin_submitAuth{
     display: block;
     margin: auto !important;
