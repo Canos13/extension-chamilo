@@ -32,6 +32,7 @@
 .fa-pencil,
 .btn-post,
 .fa-paper-plane,
+.fa-arrow-right,
 .btn-primary{ background:  #a3278f !important; }
 .navbar-right li a{ background: #AC2886 !important; }
 .divider{ background: #e52f50 !important; }
@@ -134,3 +135,23 @@ body::-webkit-scrollbar-thumb{
 #cm-header .container .row .col-xs-12 .row .col-sm-3,
 #cm-header .container .row .col-xs-12 .row .col-sm-4{ width: 0% !important; }
 #cm-header .container .row .col-xs-12 .row .col-sm-5 .header-ol{ text-align: center !important; }
+
+.alert-danger{
+    background-color: #ad1145 !important;
+    text-align: center;
+    font-size: 18px;
+}
+
+#formLogin .col-sm-2{
+    width: 0% !important;
+}
+
+#formLogin .col-sm-8{
+    width: 100% !important;
+}
+
+#formLogin .col-sm-8 #formLogin_submitAuth{
+    display: block;
+    margin: auto !important;
+    width: 30% !important;
+}
