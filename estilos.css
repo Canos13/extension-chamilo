@@ -112,7 +112,12 @@ body::-webkit-scrollbar-thumb{
 #gradebook-student-actions .row,
 #toolbar-agenda .row,
 #toolbar .row,
-#actions-documents .row{
+#actions-documents .row,
+#toolbar-document .row,
+#toolbar-forum .row,
+#toolbar-groups .row,
+#toolbar-wiki .row,
+#toolbar-wikistudent .row{
     margin-left: 0 !important;
     margin-right: 0 !important;
 }
