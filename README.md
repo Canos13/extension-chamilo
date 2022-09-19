@@ -1,4 +1,5 @@
 <h1 align="center">🐋 ​​Instrucciones para instalar la extensión de chamilo oscuro 🐋​</h1>
+<p align="center"><img width="900" src="https://raw.githubusercontent.com/Canos13/api-datos/master/images/Imagen11.PNG"></p>
 <h2 align="center">🔰 ​Para esto debemos de contar con un navegador, por ejemplo Google Chrome 🔰​</h2>
 <h3 align="center">✔️​ 1. Primero debemos descargar la extensión, para eso daremos click en el botón verde que dice "Code"</h3>
 <h3 align="center">✔️​ 2. Después otro click en donde dice "Download ZIP"</h3>
